@@ -6,7 +6,7 @@ medium: гуашь, мелованная бумага
 status: nfs
 alt: червяк рисует картинку со счастливой семьей
 collection: untitled-2
-order: 1
+order: 3
 featured: false
 ---
 
