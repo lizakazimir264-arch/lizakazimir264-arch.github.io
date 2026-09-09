@@ -43,7 +43,7 @@
     },
     "type": {
       "headingFont": "Sora",
-      "bodyFont": "Jost",
+      "bodyFont": "Playfair Display",
       "headingWeight": 500,
       "bodyWeight": 400,
       "baseSize": 16,
