@@ -34,38 +34,38 @@
   "newsletterProvider": "netlify",
   "stockists": [],
   "design": {
-    "preset": "classic",
+    "preset": "catalog",
     "color": {
-      "background": "#fcfbf9",
+      "background": "#ffffff",
       "surface": "#ffffff",
-      "text": "#22201d",
-      "muted": "#7d7972",
-      "accent": "#c3222d",
-      "accent2": "#9a6a3a",
-      "border": "#ddd8cf",
-      "link": "#3a4a5a",
-      "heading": "#22201d"
+      "text": "#1a1a1a",
+      "muted": "#777777",
+      "accent": "#22c325",
+      "accent2": "#1a1a1a",
+      "border": "#e2e2e2",
+      "link": "#2b4cff",
+      "heading": "#1a1a1a"
     },
     "type": {
-      "headingFont": "Cormorant Garamond",
-      "bodyFont": "EB Garamond",
+      "headingFont": "IBM Plex Sans",
+      "bodyFont": "Archivo",
       "headingWeight": 600,
       "bodyWeight": 400,
-      "baseSize": 19,
+      "baseSize": 16,
       "headingTransform": "none",
-      "letterSpacing": 0
+      "letterSpacing": -0.01
     },
     "shape": {
-      "radius": 16,
+      "radius": 0,
       "borderWidth": 1,
       "shadows": "none"
     },
-    "density": "airy",
-    "contentWidth": "normal",
-    "readingWidth": "spacious",
+    "density": "compact",
+    "contentWidth": "wide",
+    "readingWidth": "relaxed",
     "motion": "smooth",
     "nav": {
-      "layout": "side"
+      "layout": "top"
     },
     "home": {
       "landing": "work"
@@ -77,24 +77,24 @@
       "type": "solid"
     },
     "thumb": {
-      "fit": "contain",
-      "hover": "zoom"
+      "fit": "cover",
+      "hover": "none"
     },
     "gallery": {
-      "layout": "masonry",
-      "size": "medium",
-      "gutter": "normal",
+      "layout": "grid",
+      "size": "small",
+      "gutter": "tight",
       "caption": "below",
       "cardStyle": "card",
-      "captionDetail": "full",
+      "captionDetail": "minimal",
       "captionOverlay": "surface",
-      "featureFirst": false,
+      "featureFirst": true,
       "adaptiveSpans": false,
-      "click": "lightbox",
-      "filters": false
+      "click": "page",
+      "filters": true
     },
     "lightbox": {
-      "transition": "slide",
+      "transition": "fade",
       "zoom": false
     },
     "hero": {
