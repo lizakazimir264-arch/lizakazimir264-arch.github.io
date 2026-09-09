@@ -47,12 +47,12 @@
       "heading": "#171717"
     },
     "type": {
-      "headingFont": "Sora",
+      "headingFont": "Inter",
       "bodyFont": "Archivo",
       "headingWeight": 500,
       "bodyWeight": 400,
       "baseSize": 16,
-      "headingTransform": "uppercase",
+      "headingTransform": "none",
       "letterSpacing": -0.01
     },
     "shape": {
@@ -77,16 +77,16 @@
       "type": "solid"
     },
     "thumb": {
-      "fit": "cover",
-      "hover": "none"
+      "fit": "contain",
+      "hover": "lift"
     },
     "gallery": {
       "layout": "grid",
       "size": "medium",
       "gutter": "tight",
-      "caption": "hidden",
+      "caption": "hover",
       "cardStyle": "bare",
-      "captionDetail": "minimal",
+      "captionDetail": "full",
       "captionOverlay": "surface",
       "featureFirst": false,
       "adaptiveSpans": false,
