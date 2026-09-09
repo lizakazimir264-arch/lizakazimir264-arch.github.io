@@ -77,11 +77,11 @@
       "type": "solid"
     },
     "thumb": {
-      "fit": "contain",
+      "fit": "cover",
       "hover": "none"
     },
     "gallery": {
-      "layout": "masonry",
+      "layout": "grid",
       "size": "medium",
       "gutter": "tight",
       "caption": "hidden",
