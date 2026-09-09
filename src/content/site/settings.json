@@ -34,41 +34,41 @@
   "newsletterProvider": "netlify",
   "stockists": [],
   "design": {
-    "preset": "catalog",
+    "preset": "monograph",
     "color": {
-      "background": "#ffffff",
+      "background": "#faf8f4",
       "surface": "#ffffff",
-      "text": "#1a1a1a",
-      "muted": "#777777",
-      "accent": "#22c325",
-      "accent2": "#1a1a1a",
-      "border": "#e2e2e2",
-      "link": "#2b4cff",
-      "heading": "#1a1a1a"
+      "text": "#201d1a",
+      "muted": "#7b7568",
+      "accent": "#3822c3",
+      "accent2": "#2f6f5e",
+      "border": "#ddd6c9",
+      "link": "#9a3b2e",
+      "heading": "#201d1a"
     },
     "type": {
-      "headingFont": "IBM Plex Sans",
-      "bodyFont": "Archivo",
+      "headingFont": "Cormorant Garamond",
+      "bodyFont": "EB Garamond",
       "headingWeight": 600,
       "bodyWeight": 400,
-      "baseSize": 16,
+      "baseSize": 19,
       "headingTransform": "none",
-      "letterSpacing": -0.01
+      "letterSpacing": 0
     },
     "shape": {
       "radius": 0,
       "borderWidth": 1,
       "shadows": "none"
     },
-    "density": "compact",
-    "contentWidth": "wide",
+    "density": "airy",
+    "contentWidth": "normal",
     "readingWidth": "relaxed",
     "motion": "smooth",
     "nav": {
       "layout": "top"
     },
     "home": {
-      "landing": "work"
+      "landing": "about"
     },
     "logo": {
       "mode": "none"
@@ -77,21 +77,21 @@
       "type": "solid"
     },
     "thumb": {
-      "fit": "cover",
-      "hover": "none"
+      "fit": "contain",
+      "hover": "zoom"
     },
     "gallery": {
-      "layout": "grid",
-      "size": "small",
-      "gutter": "tight",
+      "layout": "masonry",
+      "size": "medium",
+      "gutter": "normal",
       "caption": "below",
       "cardStyle": "card",
-      "captionDetail": "minimal",
+      "captionDetail": "full",
       "captionOverlay": "surface",
-      "featureFirst": true,
+      "featureFirst": false,
       "adaptiveSpans": false,
-      "click": "page",
-      "filters": true
+      "click": "lightbox",
+      "filters": false
     },
     "lightbox": {
       "transition": "fade",
