@@ -43,11 +43,11 @@
     },
     "type": {
       "headingFont": "Sora",
-      "bodyFont": "Playfair Display",
+      "bodyFont": "Archivo",
       "headingWeight": 500,
       "bodyWeight": 400,
       "baseSize": 16,
-      "headingTransform": "none",
+      "headingTransform": "uppercase",
       "letterSpacing": -0.01
     },
     "shape": {
