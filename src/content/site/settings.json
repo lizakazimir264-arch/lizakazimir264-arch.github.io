@@ -68,7 +68,7 @@
       "layout": "top"
     },
     "home": {
-      "landing": "about"
+      "landing": "work"
     },
     "logo": {
       "mode": "none"
@@ -90,7 +90,7 @@
       "captionOverlay": "surface",
       "featureFirst": false,
       "adaptiveSpans": false,
-      "click": "lightbox",
+      "click": "page",
       "filters": false
     },
     "lightbox": {
