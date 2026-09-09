@@ -1,5 +1,6 @@
 ---
 title: About
+statement: привет! меня зовут лиза
 ---
 
 This is your About page. Open the editor at **/admin** to add your artist
