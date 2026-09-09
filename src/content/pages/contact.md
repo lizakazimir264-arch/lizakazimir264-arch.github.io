@@ -1,5 +1,7 @@
 ---
 title: Contact
+intro: feel free to message me
+email: mirliz13@yandex.ru
 formEnabled: true
 ---
 
