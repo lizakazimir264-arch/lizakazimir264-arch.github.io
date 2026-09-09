@@ -34,38 +34,38 @@
   "newsletterProvider": "netlify",
   "stockists": [],
   "design": {
-    "preset": "gallerywall",
+    "preset": "classic",
     "color": {
-      "background": "#ffffff",
+      "background": "#fcfbf9",
       "surface": "#ffffff",
-      "text": "#171717",
-      "muted": "#9b9b9b",
-      "accent": "#171717",
-      "accent2": "#a33a2f",
-      "border": "#ececec",
-      "link": "#171717",
-      "heading": "#171717"
+      "text": "#22201d",
+      "muted": "#7d7972",
+      "accent": "#c3222d",
+      "accent2": "#9a6a3a",
+      "border": "#ddd8cf",
+      "link": "#3a4a5a",
+      "heading": "#22201d"
     },
     "type": {
-      "headingFont": "Inter",
-      "bodyFont": "Archivo",
-      "headingWeight": 500,
+      "headingFont": "Cormorant Garamond",
+      "bodyFont": "EB Garamond",
+      "headingWeight": 600,
       "bodyWeight": 400,
-      "baseSize": 16,
+      "baseSize": 19,
       "headingTransform": "none",
-      "letterSpacing": -0.01
+      "letterSpacing": 0
     },
     "shape": {
-      "radius": 0,
+      "radius": 16,
       "borderWidth": 1,
       "shadows": "none"
     },
     "density": "airy",
-    "contentWidth": "wide",
-    "readingWidth": "relaxed",
+    "contentWidth": "normal",
+    "readingWidth": "spacious",
     "motion": "smooth",
     "nav": {
-      "layout": "top"
+      "layout": "side"
     },
     "home": {
       "landing": "work"
@@ -78,14 +78,14 @@
     },
     "thumb": {
       "fit": "contain",
-      "hover": "lift"
+      "hover": "zoom"
     },
     "gallery": {
-      "layout": "grid",
+      "layout": "masonry",
       "size": "medium",
-      "gutter": "tight",
-      "caption": "hover",
-      "cardStyle": "bare",
+      "gutter": "normal",
+      "caption": "below",
+      "cardStyle": "card",
       "captionDetail": "full",
       "captionOverlay": "surface",
       "featureFirst": false,
@@ -94,7 +94,7 @@
       "filters": false
     },
     "lightbox": {
-      "transition": "fade",
+      "transition": "slide",
       "zoom": false
     },
     "hero": {
@@ -112,8 +112,8 @@
     "pages": {
       "about": true,
       "contact": true,
-      "cv": false,
-      "press": false,
+      "cv": true,
+      "press": true,
       "exhibitions": false,
       "news": false,
       "available": false,
