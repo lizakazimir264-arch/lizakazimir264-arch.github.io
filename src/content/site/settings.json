@@ -1,7 +1,7 @@
 {
   "siteTitle": "liza kazimir",
   "tagline": "",
-  "logoText": "Liza Kazimir",
+  "logoText": "liza kazimir",
   "theme": "default",
   "fontPairing": "jost-hanken-grotesk",
   "portfolioLayout": "masonry",
@@ -15,7 +15,12 @@
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": [],
+  "socialLinks": [
+    {
+      "label": "telegram",
+      "url": "https://t.me/iiouky"
+    }
+  ],
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
