@@ -48,10 +48,10 @@
     },
     "type": {
       "headingFont": "Cormorant Garamond",
-      "bodyFont": "EB Garamond",
+      "bodyFont": "Archivo",
       "headingWeight": 600,
       "bodyWeight": 400,
-      "baseSize": 19,
+      "baseSize": 18,
       "headingTransform": "none",
       "letterSpacing": 0
     },
