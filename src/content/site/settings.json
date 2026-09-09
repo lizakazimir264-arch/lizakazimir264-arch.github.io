@@ -91,7 +91,7 @@
       "featureFirst": false,
       "adaptiveSpans": false,
       "click": "lightbox",
-      "filters": false
+      "filters": true
     },
     "lightbox": {
       "transition": "fade",
