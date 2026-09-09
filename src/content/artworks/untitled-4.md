@@ -10,7 +10,7 @@ year: 2025
 medium: диджитал иллюстрация
 status: nfs
 alt: три персонажа возвышаются друг над другом
-order: 4
+order: 6
 featured: false
 ---
 
