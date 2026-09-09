@@ -107,16 +107,16 @@
     "pages": {
       "about": true,
       "contact": true,
-      "cv": true,
-      "press": true,
+      "cv": false,
+      "press": false,
       "exhibitions": false,
       "news": false,
       "available": false,
       "presskit": false,
-      "commissions": true,
-      "shop": true,
+      "commissions": false,
+      "shop": false,
       "projects": false,
-      "stockists": true
+      "stockists": false
     }
   }
 }
