@@ -89,8 +89,8 @@
       "captionDetail": "minimal",
       "captionOverlay": "surface",
       "featureFirst": false,
-      "adaptiveSpans": false,
-      "click": "lightbox",
+      "adaptiveSpans": true,
+      "click": "page",
       "filters": true
     },
     "lightbox": {
