@@ -5,7 +5,7 @@ images:
   - ../../assets/artworks/untitled-4-2trkht.jpg
   - ../../assets/artworks/untitled-4-g5nq60.png
   - ../../assets/artworks/untitled-4-kvxx0a.png
-title: ученье - свет
+title: Knowledge Is Light
 year: 2025
 medium: диджитал иллюстрация
 status: nfs
