@@ -1,6 +1,6 @@
 ---
 image: ../../assets/artworks/untitled-bduyby.png
-title: лесные друзья
+title: forest dwellers
 year: 2026
 medium: масляная пастель, акварельная бумага
 status: nfs
