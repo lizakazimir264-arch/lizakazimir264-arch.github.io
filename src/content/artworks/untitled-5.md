@@ -1,6 +1,6 @@
 ---
 image: ../../assets/artworks/untitled-5-n8lbcp.png
-title: невесомая принцесса
+title: the light princess
 year: 2024
 medium: гуашь, коллаж
 status: nfs
