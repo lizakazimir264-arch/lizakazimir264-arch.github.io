@@ -6,7 +6,7 @@ medium: масло, мелованная бумага
 status: nfs
 alt: персонаж-гном сидит за столом на котором лежит его большое количество хобби
 collection: untitled-2
-order: 4
+order: 5
 featured: false
 ---
 
