@@ -1,6 +1,6 @@
 ---
 image: ../../assets/artworks/untitled-2-qpyin4.jpg
-title: "ты бы любил меня если бы я был червём? "
+title: "would you love me if i was a worm? "
 year: 2024
 medium: гуашь, мелованная бумага
 status: nfs
