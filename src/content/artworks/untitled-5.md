@@ -9,7 +9,7 @@ year: 2024
 medium: гуашь, коллаж
 status: nfs
 alt: принцесса и принц купаются в звёздном пруду
-order: 4
+order: 6
 featured: false
 ---
 
