@@ -1,6 +1,6 @@
 ---
 image: ../../assets/artworks/untitled-3-apx1ns.png
-title: динозавр говорит "ррр"
+title: dinosaur goes “rrrr”
 year: 2025
 medium: диджитал иллюстрация
 status: nfs
